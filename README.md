@@ -2,6 +2,10 @@
 
 An interactive data analysis dashboard built with Preswald SDK for exploring and visualizing video game sales data. This project demonstrates the power of Preswald for creating engaging, browser-based data applications.
 
+``` bash
+https://preswald.app/p398a4806
+```
+
 ## Features
 
 ### Visualizations
