@@ -2,15 +2,6 @@
 
 An interactive data analysis dashboard built with Preswald SDK for exploring and visualizing video game sales data. This project demonstrates the power of Preswald for creating engaging, browser-based data applications.
 
-## Project Overview
-
-This dashboard analyzes the `vgsales.csv` dataset containing information about video game sales across different platforms, regions, genres, and publishers. The application features:
-
-- **5 Interactive Visualizations**
-- **Multiple Query Tools**  
-- **Dynamic Filtering**
-- **Real-time Data Updates**
-
 ## Features
 
 ### Visualizations
@@ -51,24 +42,6 @@ The `vgsales.csv` dataset contains the following columns:
 - `JP_Sales` - Japan sales (millions)
 - `Other_Sales` - Other regions sales (millions)
 - `Global_Sales` - Total worldwide sales (millions)
-
-## Technical Implementation
-
-### Built With
-- **Preswald SDK** - Interactive data app framework
-- **Plotly** - Advanced data visualizations
-- **Pandas** - Data manipulation and analysis
-- **Python** - Core programming language
-
-## 🚀 Getting Started
-
-```bash
-pip install preswald
-```
-
-   ```bash
-   preswald run
-   ```
 
 ## 🎯 Key Insights from the Data
 
